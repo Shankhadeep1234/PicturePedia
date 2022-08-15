@@ -6,7 +6,7 @@
 .pnp.js
 
 #API key
-/scr/api
+scr/api
 
 # testing
 /coverage
